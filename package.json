@@ -1,0 +1,15 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Complete Library Management System",
+  "main": "simple-server.js",
+  "scripts": {
+    "start": "node simple-server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["library", "management", "nodejs"],
+  "author": "Your Name"
+}
+
